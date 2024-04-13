@@ -1,0 +1,224 @@
+#? card_component
+
+# Logs
+card_component/logs
+card_component/*.log
+card_component/npm-debug.log*
+card_component/yarn-debug.log*
+card_component/yarn-error.log*
+card_component/pnpm-debug.log*
+card_component/lerna-debug.log*
+
+
+card_component/node_modules
+card_component/dist
+card_component/dist-ssr
+card_component/*.local
+
+# Editor directories and files
+card_component/.vscode/*
+card_component/!.vscode/extensions.json
+card_component/.idea
+card_component/.DS_Store
+card_component/*.suo
+card_component/*.ntvs*
+card_component/*.njsproj
+card_component/*.sln
+card_component/*.sw?
+
+#? click events
+
+# Logs
+click_events/logs
+click_events/*.log
+click_events/npm-debug.log*
+click_events/yarn-debug.log*
+click_events/yarn-error.log*
+click_events/pnpm-debug.log*
+click_events/lerna-debug.log*
+
+
+click_events/node_modules
+click_events/dist
+click_events/dist-ssr
+click_events/*.local
+
+# Editor directories and files
+click_events/.vscode/*
+click_events/!.vscode/extensions.json
+click_events/.idea
+click_events/.DS_Store
+click_events/*.suo
+click_events/*.ntvs*
+click_events/*.njsproj
+click_events/*.sln
+click_events/*.sw?
+
+#? conditional rendering
+
+# Logs
+conditional_rendering/logs
+conditional_rendering/*.log
+conditional_rendering/npm-debug.log*
+conditional_rendering/yarn-debug.log*
+conditional_rendering/yarn-error.log*
+conditional_rendering/pnpm-debug.log*
+conditional_rendering/lerna-debug.log*
+
+
+conditional_rendering/node_modules
+conditional_rendering/dist
+conditional_rendering/dist-ssr
+conditional_rendering/*.local
+
+# Editor directories and files
+conditional_rendering/.vscode/*
+conditional_rendering/!.vscode/extensions.json
+conditional_rendering/.idea
+conditional_rendering/.DS_Store
+conditional_rendering/*.suo
+conditional_rendering/*.ntvs*
+conditional_rendering/*.njsproj
+conditional_rendering/*.sln
+conditional_rendering/*.sw?
+
+#? css styles
+
+# Logs
+css_styles/logs
+css_styles/*.log
+css_styles/npm-debug.log*
+css_styles/yarn-debug.log*
+css_styles/yarn-error.log*
+css_styles/pnpm-debug.log*
+css_styles/lerna-debug.log*
+
+
+css_styles/node_modules
+css_styles/dist
+css_styles/dist-ssr
+css_styles/*.local
+
+# Editor directories and files
+css_styles/.vscode/*
+css_styles/!.vscode/extensions.json
+css_styles/.idea
+css_styles/.DS_Store
+css_styles/*.suo
+css_styles/*.ntvs*
+css_styles/*.njsproj
+css_styles/*.sln
+css_styles/*.sw?
+
+#? first_app
+
+# Logs
+first_app/logs
+first_app/*.log
+first_app/npm-debug.log*
+first_app/yarn-debug.log*
+first_app/yarn-error.log*
+first_app/pnpm-debug.log*
+first_app/lerna-debug.log*
+
+
+first_app/node_modules
+first_app/dist
+first_app/dist-ssr
+first_app/*.local
+
+# Editor directories and files
+first_app/.vscode/*
+first_app/!.vscode/extensions.json
+first_app/.idea
+first_app/.DS_Store
+first_app/*.suo
+first_app/*.ntvs*
+first_app/*.njsproj
+first_app/*.sln
+first_app/*.sw?
+
+#? list_rendering
+
+# Logs
+list_rendering/logs
+list_rendering/*.log
+list_rendering/npm-debug.log*
+list_rendering/yarn-debug.log*
+list_rendering/yarn-error.log*
+list_rendering/pnpm-debug.log*
+list_rendering/lerna-debug.log*
+
+
+list_rendering/node_modules
+list_rendering/dist
+list_rendering/dist-ssr
+list_rendering/*.local
+
+# Editor directories and files
+list_rendering/.vscode/*
+list_rendering/!.vscode/extensions.json
+list_rendering/.idea
+list_rendering/.DS_Store
+list_rendering/*.suo
+list_rendering/*.ntvs*
+list_rendering/*.njsproj
+list_rendering/*.sln
+list_rendering/*.sw?
+
+#? props
+
+# Logs
+props/logs
+props/*.log
+props/npm-debug.log*
+props/yarn-debug.log*
+props/yarn-error.log*
+props/pnpm-debug.log*
+props/lerna-debug.log*
+
+
+props/node_modules
+props/dist
+props/dist-ssr
+props/*.local
+
+# Editor directories and files
+props/.vscode/*
+props/!.vscode/extensions.json
+props/.idea
+props/.DS_Store
+props/*.suo
+props/*.ntvs*
+props/*.njsproj
+props/*.sln
+props/*.sw?
+
+#? without_build_tools
+
+# Logs
+without_build_tools/logs
+without_build_tools/*.log
+without_build_tools/npm-debug.log*
+without_build_tools/yarn-debug.log*
+without_build_tools/yarn-error.log*
+without_build_tools/pnpm-debug.log*
+without_build_tools/lerna-debug.log*
+
+
+without_build_tools/node_modules
+without_build_tools/dist
+without_build_tools/dist-ssr
+without_build_tools/.parcel-cache
+without_build_tools/*.local
+
+# Editor directories and files
+without_build_tools/.vscode/*
+without_build_tools/!.vscode/extensions.json
+without_build_tools/.idea
+without_build_tools/.DS_Store
+without_build_tools/*.suo
+without_build_tools/*.ntvs*
+without_build_tools/*.njsproj
+without_build_tools/*.sln
+without_build_tools/*.sw?
