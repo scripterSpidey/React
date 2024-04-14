@@ -222,3 +222,120 @@ without_build_tools/*.ntvs*
 without_build_tools/*.njsproj
 without_build_tools/*.sln
 without_build_tools/*.sw?
+
+#? react_hooks
+
+# Logs
+react_hooks/logs
+react_hooks/*.log
+react_hooks/npm-debug.log*
+react_hooks/yarn-debug.log*
+react_hooks/yarn-error.log*
+react_hooks/pnpm-debug.log*
+react_hooks/lerna-debug.log*
+
+
+react_hooks/node_modules
+react_hooks/dist
+react_hooks/dist-ssr
+react_hooks/.parcel-cache
+react_hooks/*.local
+
+# Editor directories and files
+react_hooks/.vscode/*
+react_hooks/!.vscode/extensions.json
+react_hooks/.idea
+react_hooks/.DS_Store
+react_hooks/*.suo
+react_hooks/*.ntvs*
+react_hooks/*.njsproj
+react_hooks/*.sln
+react_hooks/*.sw?
+
+#? color_picker
+
+# Logs
+color_picker/logs
+color_picker/*.log
+color_picker/npm-debug.log*
+color_picker/yarn-debug.log*
+color_picker/yarn-error.log*
+color_picker/pnpm-debug.log*
+color_picker/lerna-debug.log*
+
+
+color_picker/node_modules
+color_picker/dist
+color_picker/dist-ssr
+color_picker/.parcel-cache
+color_picker/*.local
+
+# Editor directories and files
+color_picker/.vscode/*
+color_picker/!.vscode/extensions.json
+color_picker/.idea
+color_picker/.DS_Store
+color_picker/*.suo
+color_picker/*.ntvs*
+color_picker/*.njsproj
+color_picker/*.sln
+color_picker/*.sw?
+
+#? updater_function
+
+# Logs
+updater_function/logs
+updater_function/*.log
+updater_function/npm-debug.log*
+updater_function/yarn-debug.log*
+updater_function/yarn-error.log*
+updater_function/pnpm-debug.log*
+updater_function/lerna-debug.log*
+
+
+updater_function/node_modules
+updater_function/dist
+updater_function/dist-ssr
+updater_function/.parcel-cache
+updater_function/*.local
+
+# Editor directories and files
+updater_function/.vscode/*
+updater_function/!.vscode/extensions.json
+updater_function/.idea
+updater_function/.DS_Store
+updater_function/*.suo
+updater_function/*.ntvs*
+updater_function/*.njsproj
+updater_function/*.sln
+updater_function/*.sw?
+
+
+#? to_do_list
+
+# Logs
+to_do_list/logs
+to_do_list/*.log
+to_do_list/npm-debug.log*
+to_do_list/yarn-debug.log*
+to_do_list/yarn-error.log*
+to_do_list/pnpm-debug.log*
+to_do_list/lerna-debug.log*
+
+
+to_do_list/node_modules
+to_do_list/dist
+to_do_list/dist-ssr
+to_do_list/.parcel-cache
+to_do_list/*.local
+
+# Editor directories and files
+to_do_list/.vscode/*
+to_do_list/!.vscode/extensions.json
+to_do_list/.idea
+to_do_list/.DS_Store
+to_do_list/*.suo
+to_do_list/*.ntvs*
+to_do_list/*.njsproj
+to_do_list/*.sln
+to_do_list/*.sw?
