@@ -13,7 +13,7 @@ const List = (props) =>{
     const lowStockFruits = lowStock.map(fruit=>{
         return <li key = {fruit.name}>Name: {fruit.name}, Count: {fruit.count}</li>
     })
-    console.log(listItems)
+    console.log(lowStockFruits)
     return (
         <>
             <h1 className="category">{props.category}</h1>

@@ -1,4 +1,5 @@
 import List from "./List"
+import SearchCountry from "./searchFromList";
 
 function App() {
   //for reusability we can pass datas from here itself  
@@ -22,6 +23,7 @@ function App() {
       {fruits.length &&  <List items = {fruits} category = 'Fruits'></List>}
       {vegetables.length && <List items = {vegetables} category = 'Vegetables'></List>}
       {electronics.length && <List items = {electronics} category = 'electronics'></List>}
+      <SearchCountry></SearchCountry>
     </>
     
   );
