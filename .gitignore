@@ -223,34 +223,34 @@ without_build_tools/*.njsproj
 without_build_tools/*.sln
 without_build_tools/*.sw?
 
-#? react_hooks
+#? use_state
 
 # Logs
-react_hooks/logs
-react_hooks/*.log
-react_hooks/npm-debug.log*
-react_hooks/yarn-debug.log*
-react_hooks/yarn-error.log*
-react_hooks/pnpm-debug.log*
-react_hooks/lerna-debug.log*
+use_state/logs
+use_state/*.log
+use_state/npm-debug.log*
+use_state/yarn-debug.log*
+use_state/yarn-error.log*
+use_state/pnpm-debug.log*
+use_state/lerna-debug.log*
 
 
-react_hooks/node_modules
-react_hooks/dist
-react_hooks/dist-ssr
-react_hooks/.parcel-cache
-react_hooks/*.local
+use_state/node_modules
+use_state/dist
+use_state/dist-ssr
+use_state/.parcel-cache
+use_state/*.local
 
 # Editor directories and files
-react_hooks/.vscode/*
-react_hooks/!.vscode/extensions.json
-react_hooks/.idea
-react_hooks/.DS_Store
-react_hooks/*.suo
-react_hooks/*.ntvs*
-react_hooks/*.njsproj
-react_hooks/*.sln
-react_hooks/*.sw?
+use_state/.vscode/*
+use_state/!.vscode/extensions.json
+use_state/.idea
+use_state/.DS_Store
+use_state/*.suo
+use_state/*.ntvs*
+use_state/*.njsproj
+use_state/*.sln
+use_state/*.sw?
 
 #? color_picker
 
@@ -313,7 +313,7 @@ updater_function/*.sw?
 
 #? to_do_list
 
-# Logs
+# Logs 
 to_do_list/logs
 to_do_list/*.log
 to_do_list/npm-debug.log*
@@ -339,3 +339,270 @@ to_do_list/*.ntvs*
 to_do_list/*.njsproj
 to_do_list/*.sln
 to_do_list/*.sw?
+
+
+#? use_effect
+
+# Logs 
+use_effect/logs
+use_effect/*.log
+use_effect/npm-debug.log*
+use_effect/yarn-debug.log*
+use_effect/yarn-error.log*
+use_effect/pnpm-debug.log*
+use_effect/lerna-debug.log*
+
+
+use_effect/node_modules
+use_effect/dist
+use_effect/dist-ssr
+use_effect/.parcel-cache
+use_effect/*.local
+
+# Editor directories and files
+use_effect/.vscode/*
+use_effect/!.vscode/extensions.json
+use_effect/.idea
+use_effect/.DS_Store
+use_effect/*.suo
+use_effect/*.ntvs*
+use_effect/*.njsproj
+use_effect/*.sln
+use_effect/*.sw?
+
+
+#? digital_clock
+
+# Logs 
+digital_clock/logs
+digital_clock/*.log
+digital_clock/npm-debug.log*
+digital_clock/yarn-debug.log*
+digital_clock/yarn-error.log*
+digital_clock/pnpm-debug.log*
+digital_clock/lerna-debug.log*
+
+
+digital_clock/node_modules
+digital_clock/dist
+digital_clock/dist-ssr
+digital_clock/.parcel-cache
+digital_clock/*.local
+
+# Editor directories and files
+digital_clock/.vscode/*
+digital_clock/!.vscode/extensions.json
+digital_clock/.idea
+digital_clock/.DS_Store
+digital_clock/*.suo
+digital_clock/*.ntvs*
+digital_clock/*.njsproj
+digital_clock/*.sln
+digital_clock/*.sw?
+
+
+#? use_context
+
+# Logs 
+use_context/logs
+use_context/*.log
+use_context/npm-debug.log*
+use_context/yarn-debug.log*
+use_context/yarn-error.log*
+use_context/pnpm-debug.log*
+use_context/lerna-debug.log*
+
+
+use_context/node_modules
+use_context/dist
+use_context/dist-ssr
+use_context/.parcel-cache
+use_context/*.local
+
+# Editor directories and files
+use_context/.vscode/*
+use_context/!.vscode/extensions.json
+use_context/.idea
+use_context/.DS_Store
+use_context/*.suo
+use_context/*.ntvs*
+use_context/*.njsproj
+use_context/*.sln
+use_context/*.sw?
+
+#? use_ref
+
+# Logs 
+use_ref/logs
+use_ref/*.log
+use_ref/npm-debug.log*
+use_ref/yarn-debug.log*
+use_ref/yarn-error.log*
+use_ref/pnpm-debug.log*
+use_ref/lerna-debug.log*
+
+
+use_ref/node_modules
+use_ref/dist
+use_ref/dist-ssr
+use_ref/.parcel-cache
+use_ref/*.local
+
+# Editor directories and files
+use_ref/.vscode/*
+use_ref/!.vscode/extensions.json
+use_ref/.idea
+use_ref/.DS_Store
+use_ref/*.suo
+use_ref/*.ntvs*
+use_ref/*.njsproj
+use_ref/*.sln
+use_ref/*.sw?
+
+#? stop_watch
+
+# Logs 
+stop_watch/logs
+stop_watch/*.log
+stop_watch/npm-debug.log*
+stop_watch/yarn-debug.log*
+stop_watch/yarn-error.log*
+stop_watch/pnpm-debug.log*
+stop_watch/lerna-debug.log*
+
+
+stop_watch/node_modules
+stop_watch/dist
+stop_watch/dist-ssr
+stop_watch/.parcel-cache
+stop_watch/*.local
+
+# Editor directories and files
+stop_watch/.vscode/*
+stop_watch/!.vscode/extensions.json
+stop_watch/.idea
+stop_watch/.DS_Store
+stop_watch/*.suo
+stop_watch/*.ntvs*
+stop_watch/*.njsproj
+stop_watch/*.sln
+stop_watch/*.sw?
+
+#? costume_hooks
+
+# Logs 
+costume_hooks/logs
+costume_hooks/*.log
+costume_hooks/npm-debug.log*
+costume_hooks/yarn-debug.log*
+costume_hooks/yarn-error.log*
+costume_hooks/pnpm-debug.log*
+costume_hooks/lerna-debug.log*
+
+
+costume_hooks/node_modules
+costume_hooks/dist
+costume_hooks/dist-ssr
+costume_hooks/.parcel-cache
+costume_hooks/*.local
+
+# Editor directories and files
+costume_hooks/.vscode/*
+costume_hooks/!.vscode/extensions.json
+costume_hooks/.idea
+costume_hooks/.DS_Store
+costume_hooks/*.suo
+costume_hooks/*.ntvs*
+costume_hooks/*.njsproj
+costume_hooks/*.sln
+costume_hooks/*.sw?
+
+#? use_memo
+
+# Logs 
+use_memo/logs
+use_memo/*.log
+use_memo/npm-debug.log*
+use_memo/yarn-debug.log*
+use_memo/yarn-error.log*
+use_memo/pnpm-debug.log*
+use_memo/lerna-debug.log*
+
+
+use_memo/node_modules
+use_memo/dist
+use_memo/dist-ssr
+use_memo/.parcel-cache
+use_memo/*.local
+
+# Editor directories and files
+use_memo/.vscode/*
+use_memo/!.vscode/extensions.json
+use_memo/.idea
+use_memo/.DS_Store
+use_memo/*.suo
+use_memo/*.ntvs*
+use_memo/*.njsproj
+use_memo/*.sln
+use_memo/*.sw?
+
+
+#? use_reducer
+
+# Logs 
+use_reducer/logs
+use_reducer/*.log
+use_reducer/npm-debug.log*
+use_reducer/yarn-debug.log*
+use_reducer/yarn-error.log*
+use_reducer/pnpm-debug.log*
+use_reducer/lerna-debug.log*
+
+
+use_reducer/node_modules
+use_reducer/dist
+use_reducer/dist-ssr
+use_reducer/.parcel-cache
+use_reducer/*.local
+
+# Editor directories and files
+use_reducer/.vscode/*
+use_reducer/!.vscode/extensions.json
+use_reducer/.idea
+use_reducer/.DS_Store
+use_reducer/*.suo
+use_reducer/*.ntvs*
+use_reducer/*.njsproj
+use_reducer/*.sln
+use_reducer/*.sw?
+
+
+
+#? reusable_name_card
+
+# Logs 
+reusable_name_card/logs
+reusable_name_card/*.log
+reusable_name_card/npm-debug.log*
+reusable_name_card/yarn-debug.log*
+reusable_name_card/yarn-error.log*
+reusable_name_card/pnpm-debug.log*
+reusable_name_card/lerna-debug.log*
+
+
+reusable_name_card/node_modules
+reusable_name_card/dist
+reusable_name_card/dist-ssr
+reusable_name_card/.parcel-cache
+reusable_name_card/*.local
+
+# Editor directories and files
+reusable_name_card/.vscode/*
+reusable_name_card/!.vscode/extensions.json
+reusable_name_card/.idea
+reusable_name_card/.DS_Store
+reusable_name_card/*.suo
+reusable_name_card/*.ntvs*
+reusable_name_card/*.njsproj
+reusable_name_card/*.sln
+reusable_name_card/*.sw?

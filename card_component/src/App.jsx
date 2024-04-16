@@ -1,11 +1,9 @@
-import Card from "./Card";
-
+import Card from "./Card"
 
 function App() {
   return(
     <>
-      <Card/>
-      <Card/>
+      <Card></Card>
     </>
   )
 }

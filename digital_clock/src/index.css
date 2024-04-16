@@ -1,0 +1,23 @@
+body{
+  background-color: #1a1a1a;
+  color: rgb(239, 83, 83);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  min-height: 100vh;
+  align-items: center;
+}
+
+.clock_container{
+  padding: 30px 30px;
+  border: solid 15px rgb(238, 178, 153);
+  border-radius: 100px;
+}
+
+.clock{
+  font-size: 6rem;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+  text-shadow: 3px 3px 2px black;
+}
