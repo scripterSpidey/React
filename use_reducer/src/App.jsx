@@ -1,8 +1,11 @@
 import Counter from "./counter"
-
+import Counter2 from "./Counter2"
 function App() {
-  return(
-    <Counter></Counter>
+  return(<div>
+      <Counter></Counter>
+    <Counter2></Counter2>
+  </div>
+    
   )
 }
 

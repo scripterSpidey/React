@@ -4,18 +4,22 @@ function DoubleNum(){
 
 
     const [number,setNumber] = useState(1);
-    const[color,setColor] = useState('white')
-    function slowFunction(event){
-        const newNum = event.target.value;
+    const[color,setColor] = useState('white');
+
+    const doubleNum = useMemo(()=>{
         for(let i=0;i<1000000000;i++){}
-        setNumber(preNum=>newNum*2)
+        return number*2;
+    },[number]) 
+
+    function changeColor(){
+        color =='white' ? setColor('red'): setColor('white')
     }
 
     return(<>
-        <input onChange={()=>slowFunction(event)}   type="number" />
-        <h1>{number}</h1>
+        <input onChange={(e)=>setNumber(e.target.value)}   type="number" />
+        <h1>{doubleNum}</h1>
         <input type="text" style={{backgroundColor:color}} />
-        
+        <button onClick={changeColor}>changecolor</button>
     </>)
 }
 

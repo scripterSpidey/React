@@ -606,3 +606,66 @@ reusable_name_card/*.ntvs*
 reusable_name_card/*.njsproj
 reusable_name_card/*.sln
 reusable_name_card/*.sw?
+
+
+
+#? useCallback
+
+# Logs 
+useCallback/logs
+useCallback/*.log
+useCallback/npm-debug.log*
+useCallback/yarn-debug.log*
+useCallback/yarn-error.log*
+useCallback/pnpm-debug.log*
+useCallback/lerna-debug.log*
+
+
+useCallback/node_modules
+useCallback/dist
+useCallback/dist-ssr
+useCallback/.parcel-cache
+useCallback/*.local
+
+# Editor directories and files
+useCallback/.vscode/*
+useCallback/!.vscode/extensions.json
+useCallback/.idea
+useCallback/.DS_Store
+useCallback/*.suo
+useCallback/*.ntvs*
+useCallback/*.njsproj
+useCallback/*.sln
+useCallback/*.sw?
+
+#? react_routes
+
+# Logs 
+react_routes/logs
+react_routes/*.log
+react_routes/npm-debug.log*
+react_routes/yarn-debug.log*
+react_routes/yarn-error.log*
+react_routes/pnpm-debug.log*
+react_routes/lerna-debug.log*
+
+
+react_routes/node_modules
+react_routes/dist
+react_routes/dist-ssr
+react_routes/.parcel-cache
+react_routes/*.local
+
+# Editor directories and files
+react_routes/.vscode/*
+react_routes/!.vscode/extensions.json
+react_routes/.idea
+react_routes/.DS_Store
+react_routes/*.suo
+react_routes/*.ntvs*
+react_routes/*.njsproj
+react_routes/*.sln
+react_routes/*.sw?
+
+
+play_ground
